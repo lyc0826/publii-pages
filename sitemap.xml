@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://lyc0826.github.io/publii-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.comight.top/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://lyc0826.github.io/publii-pages/</loc>
+<loc>https://www.comight.top/</loc>
 </url>
 <url>
-<loc>https://lyc0826.github.io/publii-pages/website-navigation.html</loc>
-<lastmod>2025-07-26T14:25:41+08:00</lastmod>
+<loc>https://www.comight.top/projects.html</loc>
+<lastmod>2025-07-26T15:08:21+08:00</lastmod>
+</url>
+<url>
+<loc>https://www.comight.top/website-navigation-2.html</loc>
+<lastmod>2025-07-26T14:47:33+08:00</lastmod>
 </url>
 </urlset>

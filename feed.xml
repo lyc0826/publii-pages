@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>COMIGHT</title>
-    <link href="https://lyc0826.github.io/publii-pages/feed.xml" rel="self" />
-    <link href="https://lyc0826.github.io/publii-pages" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <link href="https://www.comight.top/feed.xml" rel="self" />
+    <link href="https://www.comight.top" />
+    <updated>2025-07-26T14:47:33+08:00</updated>
     <author>
         <name>Yuechen Lou</name>
     </author>
-    <id>https://lyc0826.github.io/publii-pages</id>
+    <id>https://www.comight.top</id>
 
+    <entry>
+        <title>Website Navigation</title>
+        <author>
+            <name>Yuechen Lou</name>
+        </author>
+        <link href="https://www.comight.top/website-navigation-2.html"/>
+        <id>https://www.comight.top/website-navigation-2.html</id>
+
+        <updated>2025-07-26T14:47:33+08:00</updated>
+            <summary>
+                <![CDATA[
+                    NewsNow LibreTV (Password: LibreTV) MoonTV (Password: MoonTV)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li><a href="http://newsnow.comight.top">NewsNow</a></li>
+<li>LibreTV (Password: LibreTV)</li>
+<li>MoonTV (Password: MoonTV)</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
 </feed>
